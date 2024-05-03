@@ -1,4 +1,4 @@
-# Project Name
+# Ebay scraper demo app
 
 ## Description
 
