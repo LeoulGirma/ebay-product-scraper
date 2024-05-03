@@ -66,10 +66,3 @@ Describe how to run your application. For example:
 python app.py
 ```
 
-## Contributing
-
-If you wish to contribute to the project, please fork the repository and submit a pull request. You can contact [Your Name] at [Your Email] for more details or if you have any questions.
-
-## License
-
-Include information about the project license.
